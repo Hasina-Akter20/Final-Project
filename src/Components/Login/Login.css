@@ -18,14 +18,18 @@
 }
 .google-login {
   background-color: #fff;
-  color: #fff;
+  color: #c12d2d;
   font-weight: 900;
-  border: 2px solid #e6e6e6;
-  padding: 25px 10px;
+  border: 2px solid #272626;
+  padding: 5px 10px;
+  /* border-radius: 5px; */
+  font-size: 1.5rem;
+  /* box-sizing: 1px 5px 5px gray; */
 }
 .google-img {
-  width: 10%;
+  width: 30px;
   cursor: pointer;
+  margin-right: 10px;
 }
 .reg {
   display: flex;

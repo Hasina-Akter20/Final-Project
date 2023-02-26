@@ -12,7 +12,7 @@ const Header = () => {
     fontWeight: "bold",
     margin: " 0 10px",
   };
-  const { user, logout } = useAuth();
+  const { name, user, logout } = useAuth();
   return (
     <Navbar
       collapseOnSelect

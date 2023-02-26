@@ -1,11 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyCFAIjoOYbZdgtfWg-X1SHLkGAbgPOu038",
-  authDomain: "medica-ac3fb.firebaseapp.com",
-  projectId: "medica-ac3fb",
-  storageBucket: "medica-ac3fb.appspot.com",
-  messagingSenderId: "1028288700483",
-  appId: "1:1028288700483:web:0d0a06f2e9dbb92c2534f6",
-  measurementId: "G-C3JF47QD41",
+  apiKey: "AIzaSyDwKlM8gsjjbb6rXenvXhHQMs6-yYp-848",
+  authDomain: "medica-c415d.firebaseapp.com",
+  projectId: "medica-c415d",
+  storageBucket: "medica-c415d.appspot.com",
+  messagingSenderId: "1038609012979",
+  appId: "1:1038609012979:web:0331d7bc35b075f8ddbf86",
 };
 
 export default firebaseConfig;

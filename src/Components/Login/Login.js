@@ -57,7 +57,7 @@ const Login = () => {
       <p className="social-divider">---------- or use this option ----------</p>
 
       <span onClick={handleGoogleSignIn} className="google-login">
-        <img className="google-img" src={googleImg} alt="" />
+        <img className="google-img" src={googleImg} alt="" /> Google
       </span>
       <div className="reg pt-4">
         <p className="fw-bolder">
